@@ -15,7 +15,7 @@ Here are some of the things I learned this week, in the order I’ve noted them 
 
 ### The Streisand Effect
 
-Refers to the phenomenon that happens when the act of trying to hide or censor certain information ends up having the opposite effect of spreading it even further ((wiki)[https://en.wikipedia.org/wiki/Streisand_effect]).
+Refers to the phenomenon that happens when the act of trying to hide or censor certain information ends up having the opposite effect of spreading it even further ([wiki](https://en.wikipedia.org/wiki/Streisand_effect])).
 
 ### CryptoKit & Swift Crypto
 
